@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\bin\Debug\Lab_Ch9_1_Ex.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\bin\Debug\Lab_Ch9_1_Ex.exe
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\bin\Debug\Lab_Ch9_1_Ex.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\obj\Debug\Lab_Ch9_1_Ex.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\obj\Debug\Lab_Ch9_1_Ex.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\obj\Debug\Lab_Ch9_1_Ex.exe
+F:\Visual Studio\Visual C# 程序设计基础\第09章\实验9-1\Lab_Ch9_1_Ex\obj\Debug\Lab_Ch9_1_Ex.pdb

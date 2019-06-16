@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>其他类型_布尔类型之外_数据尝试_非课本例题_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

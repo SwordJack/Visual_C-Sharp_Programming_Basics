@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\bin\Debug\Lab_Ch8_2_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\bin\Debug\Lab_Ch8_2_Ex.pdb
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\Lab_Ch8_2_Ex.Form1.resources
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\Lab_Ch8_2_Ex.Properties.Resources.resources
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\Lab_Ch8_2_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验8-2\Lab_Ch8_2_Ex\obj\x86\Debug\Lab_Ch8_2_Ex.pdb

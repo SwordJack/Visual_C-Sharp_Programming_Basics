@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\bin\Debug\基类和派生类.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\bin\Debug\基类和派生类.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\bin\Debug\基类和派生类.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\obj\Debug\基类和派生类.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\obj\Debug\基类和派生类.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\obj\Debug\基类和派生类.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-09\基类和派生类\obj\Debug\基类和派生类.pdb

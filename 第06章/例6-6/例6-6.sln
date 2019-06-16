@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "鼠标事件", "鼠标事件\鼠标事件.csproj", "{B1AAA624-4E18-4A9E-8A76-2805433C0CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AAA624-4E18-4A9E-8A76-2805433C0CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AAA624-4E18-4A9E-8A76-2805433C0CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AAA624-4E18-4A9E-8A76-2805433C0CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AAA624-4E18-4A9E-8A76-2805433C0CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E4A83FF-F715-425D-B33B-0B14D1DC3595}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\bin\Debug\月份号码对应月份英文名称.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\bin\Debug\月份号码对应月份英文名称.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\bin\Debug\月份号码对应月份英文名称.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\obj\Debug\月份号码对应月份英文名称.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\obj\Debug\月份号码对应月份英文名称.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\obj\Debug\月份号码对应月份英文名称.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-04\月份号码对应月份英文名称\obj\Debug\月份号码对应月份英文名称.pdb

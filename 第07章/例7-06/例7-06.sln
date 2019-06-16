@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "参数数组的使用", "参数数组的使用\参数数组的使用.csproj", "{8F663A83-647D-49D9-AF4E-F6D551AEE9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "参数数组的用法探索", "参数数组的用法探索\参数数组的用法探索.csproj", "{FA00C282-E22B-4491-8116-CFB9B370FB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F663A83-647D-49D9-AF4E-F6D551AEE9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F663A83-647D-49D9-AF4E-F6D551AEE9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F663A83-647D-49D9-AF4E-F6D551AEE9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F663A83-647D-49D9-AF4E-F6D551AEE9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA00C282-E22B-4491-8116-CFB9B370FB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA00C282-E22B-4491-8116-CFB9B370FB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA00C282-E22B-4491-8116-CFB9B370FB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA00C282-E22B-4491-8116-CFB9B370FB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558D0325-627F-4780-B455-E7404F14185A}
+	EndGlobalSection
+EndGlobal

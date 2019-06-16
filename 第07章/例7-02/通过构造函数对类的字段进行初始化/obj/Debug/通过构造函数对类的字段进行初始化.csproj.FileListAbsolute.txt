@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\bin\Debug\通过构造函数对类的字段进行初始化.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\bin\Debug\通过构造函数对类的字段进行初始化.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\bin\Debug\通过构造函数对类的字段进行初始化.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\obj\Debug\通过构造函数对类的字段进行初始化.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\obj\Debug\通过构造函数对类的字段进行初始化.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\obj\Debug\通过构造函数对类的字段进行初始化.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-02\通过构造函数对类的字段进行初始化\obj\Debug\通过构造函数对类的字段进行初始化.pdb

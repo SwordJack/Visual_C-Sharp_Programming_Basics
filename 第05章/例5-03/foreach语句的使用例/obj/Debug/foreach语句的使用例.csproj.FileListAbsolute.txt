@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\bin\Debug\foreach语句的使用例.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\bin\Debug\foreach语句的使用例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\bin\Debug\foreach语句的使用例.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\obj\Debug\foreach语句的使用例.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\obj\Debug\foreach语句的使用例.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\obj\Debug\foreach语句的使用例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-03\foreach语句的使用例\obj\Debug\foreach语句的使用例.pdb

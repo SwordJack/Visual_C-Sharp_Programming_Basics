@@ -1,0 +1,9 @@
+D:\10181567\实验3-5\Lab_Ch3_5\bin\Debug\Lab_Ch3_5.exe
+D:\10181567\实验3-5\Lab_Ch3_5\bin\Debug\Lab_Ch3_5.pdb
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\Lab_Ch3_5.Form1.resources
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\Lab_Ch3_5.Properties.Resources.resources
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\Lab_Ch3_5.exe
+D:\10181567\实验3-5\Lab_Ch3_5\obj\x86\Debug\Lab_Ch3_5.pdb

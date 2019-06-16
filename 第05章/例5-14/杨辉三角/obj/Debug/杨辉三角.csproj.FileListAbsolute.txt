@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\bin\Debug\杨辉三角.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\bin\Debug\杨辉三角.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\bin\Debug\杨辉三角.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\obj\Debug\杨辉三角.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\obj\Debug\杨辉三角.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\obj\Debug\杨辉三角.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-14\杨辉三角\obj\Debug\杨辉三角.pdb

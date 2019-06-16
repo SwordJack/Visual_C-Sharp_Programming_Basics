@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\10181567\实验5_5\Lab_Ch5_4_Ex\bin\Debug\Lab_Ch5_4_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验5_5\Lab_Ch5_4_Ex\bin\Debug\Lab_Ch5_4_Ex.pdb
+C:\Users\Administrator\Desktop\10181567\实验5_5\Lab_Ch5_4_Ex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10181567\实验5_5\Lab_Ch5_4_Ex\obj\x86\Debug\Lab_Ch5_4_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验5_5\Lab_Ch5_4_Ex\obj\x86\Debug\Lab_Ch5_4_Ex.pdb

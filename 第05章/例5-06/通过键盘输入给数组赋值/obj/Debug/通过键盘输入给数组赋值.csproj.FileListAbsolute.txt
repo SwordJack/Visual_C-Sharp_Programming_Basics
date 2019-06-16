@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\bin\Debug\通过键盘输入给数组赋值.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\bin\Debug\通过键盘输入给数组赋值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\bin\Debug\通过键盘输入给数组赋值.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\obj\Debug\通过键盘输入给数组赋值.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\obj\Debug\通过键盘输入给数组赋值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-06\通过键盘输入给数组赋值\obj\Debug\通过键盘输入给数组赋值.pdb

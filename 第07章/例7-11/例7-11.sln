@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类和抽象方法", "抽象类和抽象方法\抽象类和抽象方法.csproj", "{64BFA810-A059-4E1E-84B1-B561EFDB855D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BFA810-A059-4E1E-84B1-B561EFDB855D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BFA810-A059-4E1E-84B1-B561EFDB855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BFA810-A059-4E1E-84B1-B561EFDB855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BFA810-A059-4E1E-84B1-B561EFDB855D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79282454-824E-4BFD-A4B4-2D7200831825}
+	EndGlobalSection
+EndGlobal

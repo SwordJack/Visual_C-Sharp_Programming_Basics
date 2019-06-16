@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\bin\Debug\参数数组的使用.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\bin\Debug\参数数组的使用.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\bin\Debug\参数数组的使用.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\obj\Debug\参数数组的使用.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\obj\Debug\参数数组的使用.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-06\参数数组的使用\obj\Debug\参数数组的使用.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通过构造函数对类的字段进行初始化", "通过构造函数对类的字段进行初始化\通过构造函数对类的字段进行初始化.csproj", "{6504B096-5D64-4BF0-A636-224EBF7A036D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "构造函数的重载", "构造函数的重载\构造函数的重载.csproj", "{ADC881AD-2B2A-490E-86C3-1F408992A0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "析构函数", "析构函数\析构函数.csproj", "{5E0953A5-85A2-4388-A139-83498C6351AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6504B096-5D64-4BF0-A636-224EBF7A036D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6504B096-5D64-4BF0-A636-224EBF7A036D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6504B096-5D64-4BF0-A636-224EBF7A036D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6504B096-5D64-4BF0-A636-224EBF7A036D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC881AD-2B2A-490E-86C3-1F408992A0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC881AD-2B2A-490E-86C3-1F408992A0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC881AD-2B2A-490E-86C3-1F408992A0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC881AD-2B2A-490E-86C3-1F408992A0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0953A5-85A2-4388-A139-83498C6351AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0953A5-85A2-4388-A139-83498C6351AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0953A5-85A2-4388-A139-83498C6351AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0953A5-85A2-4388-A139-83498C6351AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC71B49-F6E4-4AF5-A96D-9AACE93E5137}
+	EndGlobalSection
+EndGlobal

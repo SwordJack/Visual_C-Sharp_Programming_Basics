@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自增自减简单举例", "自增自减简单举例\自增自减简单举例.csproj", "{9CCAF4C3-C33C-47B9-80F5-1B734DDBDABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCAF4C3-C33C-47B9-80F5-1B734DDBDABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCAF4C3-C33C-47B9-80F5-1B734DDBDABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCAF4C3-C33C-47B9-80F5-1B734DDBDABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCAF4C3-C33C-47B9-80F5-1B734DDBDABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCA4DD9-1177-433D-94E1-6F9145314A1A}
+	EndGlobalSection
+EndGlobal

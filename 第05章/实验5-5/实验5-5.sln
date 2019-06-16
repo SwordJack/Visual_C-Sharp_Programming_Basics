@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Ch5_5", "字符串分类统计\Lab_Ch5_5.csproj", "{91F997CF-3538-476C-A66F-51DC8161BE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Ch5_5_Ex", "Lab_Ch5_5_Ex\Lab_Ch5_5_Ex.csproj", "{365CC042-E807-4F2B-A072-03492C19AA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F997CF-3538-476C-A66F-51DC8161BE74}.Debug|x86.ActiveCfg = Debug|x86
+		{91F997CF-3538-476C-A66F-51DC8161BE74}.Debug|x86.Build.0 = Debug|x86
+		{91F997CF-3538-476C-A66F-51DC8161BE74}.Release|x86.ActiveCfg = Release|x86
+		{91F997CF-3538-476C-A66F-51DC8161BE74}.Release|x86.Build.0 = Release|x86
+		{365CC042-E807-4F2B-A072-03492C19AA30}.Debug|x86.ActiveCfg = Debug|x86
+		{365CC042-E807-4F2B-A072-03492C19AA30}.Debug|x86.Build.0 = Debug|x86
+		{365CC042-E807-4F2B-A072-03492C19AA30}.Release|x86.ActiveCfg = Release|x86
+		{365CC042-E807-4F2B-A072-03492C19AA30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

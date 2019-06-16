@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\bin\Debug\Lab_Ch5_5_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\bin\Debug\Lab_Ch5_5_Ex.pdb
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.Form1.resources
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.Properties.Resources.resources
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.exe
+C:\Users\Administrator\Desktop\10181567\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\bin\Debug\Lab_Ch5_5_Ex.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\bin\Debug\Lab_Ch5_5_Ex.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.Form1.resources
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.Properties.Resources.resources
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.csproj.GenerateResource.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\实验5-5\Lab_Ch5_5_Ex\obj\x86\Debug\Lab_Ch5_5_Ex.pdb

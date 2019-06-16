@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文本编辑器的实现", "文本编辑器的实现\文本编辑器的实现.csproj", "{2F8DEB83-BE86-463D-909A-F9F0E30A947B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8DEB83-BE86-463D-909A-F9F0E30A947B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8DEB83-BE86-463D-909A-F9F0E30A947B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8DEB83-BE86-463D-909A-F9F0E30A947B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8DEB83-BE86-463D-909A-F9F0E30A947B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D4193F-4C31-4E04-A496-197F55AE7C61}
+	EndGlobalSection
+EndGlobal

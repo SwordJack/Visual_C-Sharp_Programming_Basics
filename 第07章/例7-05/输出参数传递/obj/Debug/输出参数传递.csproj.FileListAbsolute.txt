@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\obj\Debug\输出参数传递.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\bin\Debug\输出参数传递.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\bin\Debug\输出参数传递.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\bin\Debug\输出参数传递.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\obj\Debug\输出参数传递.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-05\输出参数传递\obj\Debug\输出参数传递.pdb

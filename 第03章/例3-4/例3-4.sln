@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "布尔类型举例", "布尔类型举例\布尔类型举例.csproj", "{579EC9F2-CD76-4E1D-8334-556B19D0E7FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "其他类型（布尔类型之外）数据尝试（非课本例题）", "其他类型（布尔类型之外）数据尝试（非课本例题）\其他类型（布尔类型之外）数据尝试（非课本例题）.csproj", "{EE6ED878-D4FD-4022-8B3D-E5256E7DEEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579EC9F2-CD76-4E1D-8334-556B19D0E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579EC9F2-CD76-4E1D-8334-556B19D0E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579EC9F2-CD76-4E1D-8334-556B19D0E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579EC9F2-CD76-4E1D-8334-556B19D0E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6ED878-D4FD-4022-8B3D-E5256E7DEEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6ED878-D4FD-4022-8B3D-E5256E7DEEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6ED878-D4FD-4022-8B3D-E5256E7DEEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6ED878-D4FD-4022-8B3D-E5256E7DEEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23145675-DC35-4317-B990-C31F278866D3}
+	EndGlobalSection
+EndGlobal

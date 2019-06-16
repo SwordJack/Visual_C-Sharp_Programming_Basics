@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\bin\Debug\四种字段的使用.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\bin\Debug\四种字段的使用.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\bin\Debug\四种字段的使用.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\obj\Debug\四种字段的使用.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\obj\Debug\四种字段的使用.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\obj\Debug\四种字段的使用.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-08\四种字段的使用\obj\Debug\四种字段的使用.pdb

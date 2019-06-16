@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\bin\Debug\访问Car类对象和对象数据状态.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\bin\Debug\访问Car类对象和对象数据状态.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\bin\Debug\访问Car类对象和对象数据状态.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\obj\Debug\访问Car类对象和对象数据状态.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\obj\Debug\访问Car类对象和对象数据状态.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\obj\Debug\访问Car类对象和对象数据状态.exe
+F:\Visual Studio\Visual C# 程序设计基础\第07章\例7-01\访问Car类对象和对象数据状态\obj\Debug\访问Car类对象和对象数据状态.pdb

@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\bin\Debug\指向同一个对象的多个数组元素例.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\bin\Debug\指向同一个对象的多个数组元素例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\bin\Debug\指向同一个对象的多个数组元素例.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\obj\Debug\指向同一个对象的多个数组元素例.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\obj\Debug\指向同一个对象的多个数组元素例.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\obj\Debug\指向同一个对象的多个数组元素例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-02\指向同一个对象的多个数组元素例\obj\Debug\指向同一个对象的多个数组元素例.pdb

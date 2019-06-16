@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\bin\Debug\二维数组相加.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\bin\Debug\二维数组相加.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\bin\Debug\二维数组相加.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\obj\Debug\二维数组相加.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\obj\Debug\二维数组相加.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\obj\Debug\二维数组相加.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-13\二维数组相加\obj\Debug\二维数组相加.pdb

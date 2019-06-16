@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\bin\Debug\Lab_Ch8_3.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\bin\Debug\Lab_Ch8_3.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\bin\Debug\Lab_Ch8_3.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\obj\Debug\Lab_Ch8_3.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\obj\Debug\Lab_Ch8_3.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\obj\Debug\Lab_Ch8_3.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\实验8-3\Lab_Ch8_3\obj\Debug\Lab_Ch8_3.pdb

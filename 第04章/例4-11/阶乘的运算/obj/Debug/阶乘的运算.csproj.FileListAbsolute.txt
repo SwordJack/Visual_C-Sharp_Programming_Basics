@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\bin\Debug\阶乘的运算.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\bin\Debug\阶乘的运算.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\bin\Debug\阶乘的运算.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\obj\Debug\阶乘的运算.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\obj\Debug\阶乘的运算.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-11\阶乘的运算\obj\Debug\阶乘的运算.pdb

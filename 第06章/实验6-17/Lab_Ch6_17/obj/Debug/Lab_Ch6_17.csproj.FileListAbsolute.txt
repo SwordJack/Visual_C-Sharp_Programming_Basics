@@ -1,0 +1,6 @@
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\bin\Debug\Lab_Ch6_17.exe.config
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\bin\Debug\Lab_Ch6_17.exe
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\bin\Debug\Lab_Ch6_17.pdb
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\obj\Debug\Lab_Ch6_17.csproj.CoreCompileInputs.cache
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\obj\Debug\Lab_Ch6_17.exe
+C:\Users\失之时间\source\repos\实验6-17\Lab_Ch6_17\obj\Debug\Lab_Ch6_17.pdb

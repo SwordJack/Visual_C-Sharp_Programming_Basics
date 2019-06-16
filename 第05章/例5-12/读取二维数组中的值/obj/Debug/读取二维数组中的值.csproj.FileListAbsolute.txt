@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\bin\Debug\读取二维数组中的值.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\bin\Debug\读取二维数组中的值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\bin\Debug\读取二维数组中的值.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\obj\Debug\读取二维数组中的值.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\obj\Debug\读取二维数组中的值.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\obj\Debug\读取二维数组中的值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-12\读取二维数组中的值\obj\Debug\读取二维数组中的值.pdb

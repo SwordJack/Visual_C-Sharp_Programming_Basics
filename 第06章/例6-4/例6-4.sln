@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "实时时钟", "实时时钟\实时时钟.csproj", "{8A65B4E7-CF7F-4AF2-ACE7-41688D15006C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A65B4E7-CF7F-4AF2-ACE7-41688D15006C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A65B4E7-CF7F-4AF2-ACE7-41688D15006C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A65B4E7-CF7F-4AF2-ACE7-41688D15006C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A65B4E7-CF7F-4AF2-ACE7-41688D15006C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130D34EC-04E2-496C-8462-9EBBDF68DD33}
+	EndGlobalSection
+EndGlobal

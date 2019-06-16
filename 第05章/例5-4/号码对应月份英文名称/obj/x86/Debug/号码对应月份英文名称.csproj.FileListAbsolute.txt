@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\10181567\例5-4\号码对应月份英文名称\bin\Debug\号码对应月份英文名称.exe
+C:\Users\Administrator\Desktop\10181567\例5-4\号码对应月份英文名称\bin\Debug\号码对应月份英文名称.pdb
+C:\Users\Administrator\Desktop\10181567\例5-4\号码对应月份英文名称\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10181567\例5-4\号码对应月份英文名称\obj\x86\Debug\号码对应月份英文名称.exe
+C:\Users\Administrator\Desktop\10181567\例5-4\号码对应月份英文名称\obj\x86\Debug\号码对应月份英文名称.pdb

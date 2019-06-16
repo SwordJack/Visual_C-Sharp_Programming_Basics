@@ -1,0 +1,5 @@
+D:\10181567\实验3-1\Lab_Ch3_1\bin\Debug\Lab_Ch3_1.exe
+D:\10181567\实验3-1\Lab_Ch3_1\bin\Debug\Lab_Ch3_1.pdb
+D:\10181567\实验3-1\Lab_Ch3_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10181567\实验3-1\Lab_Ch3_1\obj\x86\Debug\Lab_Ch3_1.exe
+D:\10181567\实验3-1\Lab_Ch3_1\obj\x86\Debug\Lab_Ch3_1.pdb

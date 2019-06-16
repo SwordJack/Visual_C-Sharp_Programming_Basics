@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "求给出范围内的质数", "求给出范围内的质数\求给出范围内的质数.csproj", "{5822AC5F-A88C-45B5-A7BF-71E8563D3722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5822AC5F-A88C-45B5-A7BF-71E8563D3722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5822AC5F-A88C-45B5-A7BF-71E8563D3722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5822AC5F-A88C-45B5-A7BF-71E8563D3722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5822AC5F-A88C-45B5-A7BF-71E8563D3722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46B4ECA-091F-46EA-AA4C-6797B996317E}
+	EndGlobalSection
+EndGlobal

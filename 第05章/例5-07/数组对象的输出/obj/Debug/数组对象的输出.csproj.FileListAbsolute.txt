@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\bin\Debug\数组对象的输出.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\bin\Debug\数组对象的输出.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\bin\Debug\数组对象的输出.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\obj\Debug\数组对象的输出.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\obj\Debug\数组对象的输出.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\obj\Debug\数组对象的输出.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-07\数组对象的输出\obj\Debug\数组对象的输出.pdb

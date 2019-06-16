@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件流的写入", "文件流的写入\文件流的写入.csproj", "{A0D7D857-ED8E-4C74-966E-02D874CAEF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D7D857-ED8E-4C74-966E-02D874CAEF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D7D857-ED8E-4C74-966E-02D874CAEF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D7D857-ED8E-4C74-966E-02D874CAEF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D7D857-ED8E-4C74-966E-02D874CAEF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB3D423-6A27-4647-9609-502673769A75}
+	EndGlobalSection
+EndGlobal

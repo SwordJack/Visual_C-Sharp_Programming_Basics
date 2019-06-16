@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\bin\Debug\计算求和.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\bin\Debug\计算求和.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\bin\Debug\计算求和.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\obj\Debug\计算求和.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\obj\Debug\计算求和.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\obj\Debug\计算求和.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-8\计算求和\obj\Debug\计算求和.pdb

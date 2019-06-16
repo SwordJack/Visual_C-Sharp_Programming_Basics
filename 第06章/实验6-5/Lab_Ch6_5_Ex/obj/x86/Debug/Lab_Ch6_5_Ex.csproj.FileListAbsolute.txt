@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\10181567\实验6-5\求最高分、最低分、平均分\obj\x86\Debug\求最高分、最低分、平均分.exe
+C:\Users\Administrator\Desktop\10181567\实验6-5\求最高分、最低分、平均分\obj\x86\Debug\求最高分、最低分、平均分.pdb

@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\bin\Debug\Array类Sort方法排序.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\bin\Debug\Array类Sort方法排序.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\bin\Debug\Array类Sort方法排序.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\obj\Debug\Array类Sort方法排序.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\obj\Debug\Array类Sort方法排序.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-9\Array类Sort方法排序\obj\Debug\Array类Sort方法排序.pdb

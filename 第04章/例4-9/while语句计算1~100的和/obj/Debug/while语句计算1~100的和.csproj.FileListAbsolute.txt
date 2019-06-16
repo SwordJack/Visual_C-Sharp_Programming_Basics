@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\bin\Debug\while语句计算1~100的和.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\bin\Debug\while语句计算1~100的和.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\bin\Debug\while语句计算1~100的和.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\obj\Debug\while语句计算1~100的和.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\obj\Debug\while语句计算1~100的和.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\obj\Debug\while语句计算1~100的和.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-9\while语句计算1~100的和\obj\Debug\while语句计算1~100的和.pdb

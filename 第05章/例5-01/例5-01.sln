@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组的初始化例", "数组的初始化例\数组的初始化例.csproj", "{C3AB66D1-5C39-4393-AE31-31B359B9EC1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AB66D1-5C39-4393-AE31-31B359B9EC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AB66D1-5C39-4393-AE31-31B359B9EC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AB66D1-5C39-4393-AE31-31B359B9EC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AB66D1-5C39-4393-AE31-31B359B9EC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799D5E3E-C772-40FD-A697-DD49D968B400}
+	EndGlobalSection
+EndGlobal

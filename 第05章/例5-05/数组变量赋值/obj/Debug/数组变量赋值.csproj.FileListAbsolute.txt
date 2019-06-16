@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\bin\Debug\数组变量赋值.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\bin\Debug\数组变量赋值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\bin\Debug\数组变量赋值.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\obj\Debug\数组变量赋值.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\obj\Debug\数组变量赋值.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\obj\Debug\数组变量赋值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-05\数组变量赋值\obj\Debug\数组变量赋值.pdb

@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\bin\Debug\当前计算机上所有驱动器的相关信息.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\bin\Debug\当前计算机上所有驱动器的相关信息.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\bin\Debug\当前计算机上所有驱动器的相关信息.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\obj\Debug\当前计算机上所有驱动器的相关信息.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\obj\Debug\当前计算机上所有驱动器的相关信息.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\obj\Debug\当前计算机上所有驱动器的相关信息.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-1\当前计算机上所有驱动器的相关信息\obj\Debug\当前计算机上所有驱动器的相关信息.pdb

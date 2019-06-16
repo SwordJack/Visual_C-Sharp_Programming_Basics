@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\bin\Debug\数组的初始化例.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\bin\Debug\数组的初始化例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\bin\Debug\数组的初始化例.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\obj\Debug\数组的初始化例.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\obj\Debug\数组的初始化例.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\obj\Debug\数组的初始化例.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-01\数组的初始化例\obj\Debug\数组的初始化例.pdb

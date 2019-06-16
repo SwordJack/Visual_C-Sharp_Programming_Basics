@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\bin\Debug\文件流的写入.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\bin\Debug\文件流的写入.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\bin\Debug\文件流的写入.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\obj\Debug\文件流的写入.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\obj\Debug\文件流的写入.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\obj\Debug\文件流的写入.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-3\文件流的写入\obj\Debug\文件流的写入.pdb

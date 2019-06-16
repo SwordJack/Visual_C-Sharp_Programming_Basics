@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\bin\Debug\Lab_Ch6_13.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\bin\Debug\Lab_Ch6_13.exe
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\bin\Debug\Lab_Ch6_13.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\obj\Debug\Lab_Ch6_13.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\obj\Debug\Lab_Ch6_13.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\obj\Debug\Lab_Ch6_13.exe
+F:\Visual Studio\Visual C# 程序设计基础\第06章\实验6-13\Lab_Ch6_13\obj\Debug\Lab_Ch6_13.pdb

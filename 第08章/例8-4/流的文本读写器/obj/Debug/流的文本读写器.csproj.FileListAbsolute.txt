@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\bin\Debug\流的文本读写器.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\bin\Debug\流的文本读写器.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\bin\Debug\流的文本读写器.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\obj\Debug\流的文本读写器.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\obj\Debug\流的文本读写器.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\obj\Debug\流的文本读写器.exe
+F:\Visual Studio\Visual C# 程序设计基础\第08章\例8-4\流的文本读写器\obj\Debug\流的文本读写器.pdb

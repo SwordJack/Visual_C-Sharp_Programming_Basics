@@ -1,0 +1,18 @@
+D:\10181567\例2-3\窗体属性、事件、方法\bin\Debug\窗体属性、事件、方法.exe
+D:\10181567\例2-3\窗体属性、事件、方法\bin\Debug\窗体属性、事件、方法.pdb
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性_事件_方法.Form1.resources
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性_事件_方法.Properties.Resources.resources
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.exe
+D:\10181567\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\bin\Debug\窗体属性、事件、方法.exe
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\bin\Debug\窗体属性、事件、方法.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性_事件_方法.Form1.resources
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性_事件_方法.Properties.Resources.resources
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.csproj.GenerateResource.cache
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.exe
+F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-3\窗体属性、事件、方法\obj\x86\Debug\窗体属性、事件、方法.pdb

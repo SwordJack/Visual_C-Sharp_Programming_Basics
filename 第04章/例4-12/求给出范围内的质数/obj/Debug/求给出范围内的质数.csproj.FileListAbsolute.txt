@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\bin\Debug\求给出范围内的质数.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\bin\Debug\求给出范围内的质数.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\bin\Debug\求给出范围内的质数.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\obj\Debug\求给出范围内的质数.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\obj\Debug\求给出范围内的质数.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\obj\Debug\求给出范围内的质数.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-12\求给出范围内的质数\obj\Debug\求给出范围内的质数.pdb

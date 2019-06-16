@@ -1,0 +1,6 @@
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\bin\Debug\输出九九乘法表.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\bin\Debug\输出九九乘法表.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\bin\Debug\输出九九乘法表.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\obj\Debug\输出九九乘法表.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\obj\Debug\输出九九乘法表.exe
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-14\输出九九乘法表\obj\Debug\输出九九乘法表.pdb

@@ -1,0 +1,9 @@
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\制作登录界面.Form1.resources
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\制作登录界面.Properties.Resources.resources
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\10181567\例2-4\制作登录界面\bin\Debug\制作登录界面.exe
+D:\10181567\例2-4\制作登录界面\bin\Debug\制作登录界面.pdb
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\制作登录界面.exe
+D:\10181567\例2-4\制作登录界面\obj\x86\Debug\制作登录界面.pdb

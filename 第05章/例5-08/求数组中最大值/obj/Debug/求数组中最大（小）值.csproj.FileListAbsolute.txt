@@ -1,0 +1,7 @@
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\bin\Debug\求数组中最大值.exe.config
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\bin\Debug\求数组中最大值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\bin\Debug\求数组中最大值.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\obj\Debug\求数组中最大（小）值.csprojAssemblyReference.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\obj\Debug\求数组中最大（小）值.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\obj\Debug\求数组中最大值.exe
+F:\Visual Studio\Visual C# 程序设计基础\第05章\例5-08\求数组中最大值\obj\Debug\求数组中最大值.pdb
