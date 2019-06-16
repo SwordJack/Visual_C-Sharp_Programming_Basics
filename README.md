@@ -7,6 +7,7 @@
 3、由于个人原因，程序解决方案多数是在Microsoft Visual Studio 2019开发环境进行编写和编译，使用较低版本Visual Studio编译器者可能无法打开解决方案（.sln）文件和项目（.csproj）文件。如因故无法安装Microsoft Visual Studio 2019，可以将其中.cs文件通过记事本或notepad++打开，阅读程序源代码；
 4、此中内容不用于且不可以任何理由用于任何商业目的，转载请注明出处。
 
+
 ## Copyleft ! <2019 - forever>, <@SwordJack>. No Rights Reserved.
 
 ## @SwordJack，2019年06月16日。
