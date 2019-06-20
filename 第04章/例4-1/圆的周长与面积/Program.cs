@@ -12,7 +12,7 @@ namespace 圆的周长与面积
             R = double.Parse(Console.ReadLine());
             C = 2 * PI * R;
             S = PI * R * R;
-            Console.WriteLine("圆的周长为{0}，面积为{0}。", C, S);
+            Console.WriteLine("圆的周长为{0:F2}，面积为{1:F2}。", C, S);
             Console.ReadKey();
         }
     }

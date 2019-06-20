@@ -8,3 +8,4 @@ F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-1\圆的周长与面
 F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-1\圆的周长与面积\obj\Debug\netcoreapp2.1\圆的周长与面积.AssemblyInfo.cs
 F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-1\圆的周长与面积\obj\Debug\netcoreapp2.1\圆的周长与面积.dll
 F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-1\圆的周长与面积\obj\Debug\netcoreapp2.1\圆的周长与面积.pdb
+F:\Visual Studio\Visual C# 程序设计基础\第04章\例4-1\圆的周长与面积\obj\Debug\netcoreapp2.1\圆的周长与面积.csprojAssemblyReference.cache
