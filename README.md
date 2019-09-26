@@ -10,6 +10,6 @@
 
 4、此中内容不用于且不可以任何理由用于任何商业目的，转载请注明出处。
 
-
-## Copyleft © 2019 - forever, Zhong Y. Jie. Partial Rights Reserved, Licensed Under GNU GPL v3.
-## Zhong Y. Jie，2019年06月16日。
+## 关于:
+Copyleft © 2019 - forever, Zhong Y. Jie. Partial Rights Reserved, Licensed Under GNU GPL v3.
+Zhong Y. Jie，2019年06月16日。
