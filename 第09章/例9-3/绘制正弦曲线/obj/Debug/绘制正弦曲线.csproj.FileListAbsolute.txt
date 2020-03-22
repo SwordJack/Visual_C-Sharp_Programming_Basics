@@ -8,3 +8,13 @@ F:\Visual Studio\Visual C# 程序设计基础\第09章\例9-3\绘制正弦曲线
 F:\Visual Studio\Visual C# 程序设计基础\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.csproj.CoreCompileInputs.cache
 F:\Visual Studio\Visual C# 程序设计基础\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.exe
 F:\Visual Studio\Visual C# 程序设计基础\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\bin\Debug\绘制正弦曲线.exe.config
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\bin\Debug\绘制正弦曲线.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\bin\Debug\绘制正弦曲线.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.csprojAssemblyReference.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.Form1.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.Properties.Resources.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.csproj.GenerateResource.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.csproj.CoreCompileInputs.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第09章\例9-3\绘制正弦曲线\obj\Debug\绘制正弦曲线.pdb

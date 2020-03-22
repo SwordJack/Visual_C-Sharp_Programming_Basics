@@ -1,0 +1,9 @@
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\bin\Debug\飘动动画窗体.exe.config
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\bin\Debug\飘动动画窗体.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\bin\Debug\飘动动画窗体.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.csprojAssemblyReference.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.WaveForm.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.Properties.Resources.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.csproj.GenerateResource.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第11章\例11-1\飘动动画窗体\obj\Debug\飘动动画窗体.pdb
