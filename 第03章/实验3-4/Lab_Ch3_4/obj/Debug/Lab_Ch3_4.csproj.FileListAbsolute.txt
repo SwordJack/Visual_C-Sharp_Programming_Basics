@@ -1,0 +1,6 @@
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\bin\Debug\Lab_Ch3_4.exe.config
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\bin\Debug\Lab_Ch3_4.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\bin\Debug\Lab_Ch3_4.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\obj\Debug\Lab_Ch3_4.csprojAssemblyReference.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\obj\Debug\Lab_Ch3_4.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第03章\实验3-4\Lab_Ch3_4\obj\Debug\Lab_Ch3_4.pdb
