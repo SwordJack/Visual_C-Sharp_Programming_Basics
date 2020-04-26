@@ -8,3 +8,13 @@ F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-5\记事本应用程
 F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.csproj.CoreCompileInputs.cache
 F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.exe
 F:\Visual Studio\Visual C# 程序设计基础\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\bin\Debug\记事本应用程序.exe.config
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\bin\Debug\记事本应用程序.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\bin\Debug\记事本应用程序.pdb
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.csprojAssemblyReference.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.Form1.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.Properties.Resources.resources
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.csproj.GenerateResource.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.csproj.CoreCompileInputs.cache
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.exe
+F:\Github Documents\Visual_C-Sharp_Programming_Basics\第02章\例2-5\记事本应用程序\obj\Debug\记事本应用程序.pdb

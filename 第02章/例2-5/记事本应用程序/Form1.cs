@@ -18,30 +18,55 @@ namespace 记事本应用程序
             InitializeComponent();
         }
 
-        private string stext = "";
+        private string stext = "";  //一个字符串变量，这里用来在内存中保存从文本框中“剪切”或“复制”的文字内容。
 
-        private void Button1_Click(object sender, EventArgs e)
+        /// <summary>
+        /// 点击“剪切”按钮后触发。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtCut_Click(object sender, EventArgs e)
         {
-            stext = textBox1.SelectedText;
-            textBox1.SelectedText = "";
+            stext = tbContent.SelectedText; //将stext变量赋以文本框中选中的字符串内容。
+            tbContent.SelectedText = "";    //将文本框中选中的字符串内容清除。
         }
 
-        private void Button2_Click(object sender, EventArgs e)
+        /// <summary>
+        /// 点击“复制”按钮后触发。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtCopy_Click(object sender, EventArgs e)
         {
-            stext = textBox1.SelectedText;
+            stext = tbContent.SelectedText; //将stext变量赋以文本框中选中的字符串内容。
         }
 
-        private void Button3_Click(object sender, EventArgs e)
+        /// <summary>
+        /// 点击“粘贴”按钮后触发。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtPaste_Click(object sender, EventArgs e)
         {
-            textBox1.SelectedText = stext;
+            tbContent.SelectedText = stext; //使文本框中选中的字符串内容更新为stext变量值，如果当前没有选中文字，就会在光标位置插入文字。
         }
 
-        private void Button4_Click(object sender, EventArgs e)
+        /// <summary>
+        /// 点击“格式”按钮后触发。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtFormat_Click(object sender, EventArgs e)
         {
-            textBox1.Font = new Font("隶书" , 16);
+            tbContent.Font = new Font("隶书" , 16);   //更新字体和字号。
         }
 
-        private void Button5_Click(object sender, EventArgs e)
+        /// <summary>
+        /// 点击“结束”按钮后触发。
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void BtExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
